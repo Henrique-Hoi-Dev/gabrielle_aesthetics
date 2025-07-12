@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gabrielle_aesthetics/static/css/main.9caf34b4.css",
+    "main.js": "/gabrielle_aesthetics/static/js/main.ad417a78.js",
+    "static/js/453.f87ece07.chunk.js": "/gabrielle_aesthetics/static/js/453.f87ece07.chunk.js",
+    "static/media/avatar.jpg": "/gabrielle_aesthetics/static/media/avatar.b42695c4f697fb14c818.jpg",
+    "index.html": "/gabrielle_aesthetics/index.html",
+    "main.9caf34b4.css.map": "/gabrielle_aesthetics/static/css/main.9caf34b4.css.map",
+    "main.ad417a78.js.map": "/gabrielle_aesthetics/static/js/main.ad417a78.js.map",
+    "453.f87ece07.chunk.js.map": "/gabrielle_aesthetics/static/js/453.f87ece07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9caf34b4.css",
+    "static/js/main.ad417a78.js"
+  ]
+}
